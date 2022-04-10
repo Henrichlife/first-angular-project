@@ -1,0 +1,41 @@
+
+
+.table{margin-top: 3rem;
+margin-left: 13rem;
+width: 58rem;
+margin-bottom: 3rem;
+align-items: center;
+ 
+}
+
+
+
+th{font-size: 1.6rem;
+padding-right: 3rem;
+color:  rgb(100, 136, 128);
+font-family: inherit;  
+
+}
+
+td{padding: 1.5rem;
+    color: rgb(185, 174, 174);
+   
+}
+
+a{text-decoration: none;
+    color: rgb(133, 129, 129);
+font-size: 1.1rem;
+line-height: 0rem;
+
+}
+
+a:hover{color: rgb(170, 162, 162);}
+
+h4{color: rgb(100, 136, 128);
+ line-height: 0rem;   
+}
+
+ td{border-bottom: 1px solid rgb(223, 226, 229);
+border-collapse: collapse;
+
+}

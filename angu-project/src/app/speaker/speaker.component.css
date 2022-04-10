@@ -1,0 +1,83 @@
+
+
+
+
+header{
+    background-color: rgb(27, 49, 63);
+    color: white;
+    padding-top: none;
+    padding-bottom:3rem;
+    margin: none;
+    padding: none;
+    line-height: 1rem;
+}
+
+h6{text-align: end;
+    color: rgb(139, 160, 139);
+    font-size: 1rem;
+    margin-right: 11rem;
+    margin-top: 0rem;
+    
+    
+    }
+
+    /*conference css*/
+
+.navy a{ font-size: 3.2rem;
+    position: relative;
+    text-decoration: none;
+    color: white;
+    top: 60px;
+    left: 12rem ;
+    padding: none;
+    line-height: 47px;
+font-family: sans-serif;
+  
+}
+
+    .navy a:hover{color: rgb(70, 109, 70);
+        transition: all 0.2ms;}
+
+
+/*nav container home link*/
+
+.nav-container{justify-content: right;
+    display: flex;
+    align-items: center;
+    margin-right:11rem;
+    
+    line-height: 1px;
+    
+    }
+
+    .nav-container a{text-decoration: none;
+        color: white;
+        padding: 6px;
+        cursor: pointer;
+    margin-top: 0rem; 
+    padding-top: 0rem;
+    font-family: sans-serif;
+    font-size: 0.9rem;
+    }
+
+    .nav-container a:hover{color: rgb(139, 160, 139);}
+
+
+
+
+    .text-wrapper{background:linear-gradient(to right,
+        rgb(161, 211, 176),rgb(246, 241, 211));
+   text-align: center;
+   color: rgb(100, 136, 128);
+   font-size: 1.2rem;
+   padding: 0.8rem;
+   font-family:sans-serif;
+   line-height: 2rem;
+   }
+
+
+   p{font-size: 1.3rem;
+font-family: sans-serif;
+color: rgb(137, 139, 141);
+}
+   

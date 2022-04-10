@@ -1,0 +1,42 @@
+
+
+<header>
+    <div class="navy">
+       <a href="#">STYLES <br>CONFERENCE</a>
+
+   <h6>August 24–26th — Chicago, IL</h6></div>
+   
+       <nav class="nav-container">
+           <a href="#">HOME</a>
+           <a href="#">SPEAKER</a>
+           <a href="#">SCHEDULE</a>
+           <a href="#">VENUE</a>
+           <a href="#">REGISTER</a>
+       </nav>
+   </header>
+   
+
+
+
+
+   <div class="text-wrapper">
+    <h1 class="reg">Speakers</h1>
+    <p *ngIf="false">We’re happy to welcome over twenty speakers to present on
+         the industry’s latest technologies.<br> Prepare for an 
+         inspiration extravaganza..</p>
+    </div>
+
+    <p *ngFor="let data of myData">
+        {{ data }}
+    </p>
+
+    <div *ngFor="let data of jsonData" style="margin-bottom: 20px;">
+        <h3>Name: {{ data.name }}</h3>
+        <h3>Email: {{ data.email }}</h3>
+        <h3>Body: {{ data.body }}</h3>
+
+    </div>
+    
+
+    <app-speaker-adam></app-speaker-adam>
+    <app-speaker-aj></app-speaker-aj>

@@ -1,0 +1,45 @@
+*{margin: none;}
+
+
+footer{
+  background:  rgb(27, 49, 63);
+  color: rgb(110, 144, 118);padding: 1rem;
+
+}
+    
+
+
+.foot{
+  height: 1rem;
+  padding: 0.5rem;
+  margin-left:10rem;
+  font-size: 1rem;
+}
+
+
+
+
+ .nav{
+display: flex;
+justify-content: right;
+vertical-align:top ;
+
+margin-right: 7rem;
+
+}  
+
+.nav a{color: white;
+margin-bottom: 1rem;
+text-decoration: none;
+ padding: 1rem;
+ font-size: 0.9rem;
+}
+
+
+.nav a:hover{color: rgb(70, 109, 70);;
+    
+     }
+
+
+     
+     

@@ -1,0 +1,77 @@
+
+
+
+
+
+
+.speaker-co{
+    display: grid;
+grid-template-columns: 1fr 1fr ;
+align-items: center;
+font-size: 1.1rem;
+vertical-align: baseline;
+line-height: 1.4rem;
+ margin-left: 15rem;
+  margin-top: 3rem;
+width:77rem;
+margin-bottom: 3rem;
+}
+
+
+
+.shay{
+    font-family: inherit;
+    font-style: inherit;
+    
+    }
+    
+
+
+    .shay-side{
+    margin-left: 0rem;
+    margin-bottom: 1rem;
+        text-align: center;
+        border-image: initial;
+        
+    
+    }
+    
+
+    h2{color:rgb(100, 136, 128); 
+        font-size: 1.5rem;
+        line-height: 0rem;
+        
+        }
+        
+        p{color: rgb(77, 93, 93);}
+        
+        h5{color:  rgb(180, 178, 178);
+        font-size: 0.9rem;
+    letter-spacing: 0.4px;
+    
+        }
+        
+
+
+
+    
+        img{height: 130px;
+            width: 130px;
+        border-radius: 10rem;
+        margin-right: 13rem;
+    
+        }
+        
+        a{text-decoration: none;
+        color:    rgb(41, 41, 41);
+     
+     
+        }
+        
+        a:hover{color: rgb(160, 154, 154);}
+        
+        ul{list-style: none;
+        margin-right: 15rem;
+        }
+    
+      

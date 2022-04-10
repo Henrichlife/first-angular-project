@@ -1,0 +1,94 @@
+
+
+
+.grid{
+    display: grid;
+    grid-template-columns:1fr 1fr ;
+    
+    margin-left: 3rem;
+    margin-left: 3rem;
+    
+    }
+    
+    .grid-container{height: 100%;
+    width: 480px;
+    font-size: 1.1rem;
+    padding-top: 3rem;
+    font-family: serif;
+    color: rgb(100, 136, 128);
+    
+    
+    line-height: 25px;
+    
+    }
+    
+    h6 h3 p{vertical-align: baseline;
+    
+    }
+    
+   .text{margin-left: 10rem;
+    width: 600px;
+    margin-bottom: 8rem;
+line-height: 1.4rem;
+
+
+} 
+
+
+
+
+    form{margin-left: 9rem;
+        margin-top: 1rem;
+    
+    }
+    
+
+
+    input{padding: 0.5rem;
+    border-radius: 0.2rem;
+    width: 18rem;
+    border: 0.1rem solid rgb(112, 111, 111);
+    margin: 0.9rem;
+    
+    
+    }
+    /* number of passes input*/
+    .num{width: 4rem;
+    display: block;
+    }
+    
+    /*text area css*/
+    
+    .area{padding: 1.5rem;
+    width: 18rem;
+    margin-top: 0.3rem;
+margin-top: 0.5rem;
+margin-right:10 ;
+    
+    }
+    
+    /*button css*/
+    .button{margin-top: 2rem;}
+    
+    .btn{padding: 0.8rem;
+    width: 9rem;
+    background: rgb(100, 136, 128);
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 0.3rem;
+    border: none;
+    margin-bottom: 5rem;
+    
+    }
+    
+    .btn:hover{background: rgb(124, 163, 139);}
+
+
+
+
+
+
+
+
+

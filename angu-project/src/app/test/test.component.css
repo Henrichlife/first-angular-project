@@ -1,0 +1,43 @@
+
+*{margin: none;}
+
+.content-wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-left: 6rem;
+    margin-left: 5rem;
+    margin-top: 3rem;
+    margin-bottom: 23rem;
+    align-items: center;
+    padding-right: 10rem;
+max-width: 100%;
+    
+}
+
+
+.inner-content{
+    
+    width: 300px;
+height:100px;
+
+    
+}
+
+img{width: 19rem;
+border-radius: 10px;
+line-height: 0rem;
+padding: none;
+
+}
+
+a{color: rgb(182, 182, 182);
+    text-decoration: none;
+    font-size: 1.2rem;
+    
+}
+
+a:hover{color: rgb(200, 199, 199);}
+
+H5 {color: rgb(169, 172, 172);}
+
+p{color: rgb(169, 172, 172);}

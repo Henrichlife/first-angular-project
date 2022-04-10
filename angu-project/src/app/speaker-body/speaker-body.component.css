@@ -1,0 +1,90 @@
+
+
+
+.speaker-container{
+    display: grid;
+grid-template-columns: 1fr 1fr ;
+align-items: center;
+font-size: 1.1rem;
+vertical-align: baseline;
+line-height: 1.4rem;
+ margin-left: 15rem;
+  margin-top: 5rem;
+ width:75rem;
+margin-bottom: 3rem;
+}
+
+.Aaron-Irizarry{
+font-family: inherit;
+font-style: inherit;
+
+}
+
+
+.aaron-side{
+
+margin-left: 0rem;
+margin-bottom: 12rem;
+    text-align: center;
+    border-image: initial;
+    
+
+}
+
+
+h2{color:rgb(100, 136, 128); 
+font-size: 1.5rem;
+line-height: 0rem;
+}
+
+p{color: rgb(54, 53, 53);}
+
+h5{color:  rgb(156, 154, 154);
+font-size: 0.8rem;
+}
+
+
+
+
+
+
+
+img{height: 130px;
+    width: 130px;
+border-radius: 10rem;
+margin-right: 10rem;
+}
+
+a{text-decoration: none;
+color:    rgb(41, 41, 41);
+margin-right: 10rem;
+}
+
+a:hover{color: rgb(160, 154, 154);}
+
+ul{list-style: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
